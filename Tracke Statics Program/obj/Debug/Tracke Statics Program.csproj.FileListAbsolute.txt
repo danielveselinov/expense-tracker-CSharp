@@ -1,0 +1,17 @@
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Tracke Statics Program.csprojAssemblyReference.cache
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Tracke_Statics_Program.Form1.resources
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Tracke_Statics_Program.Properties.Resources.resources
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Tracke Statics Program.csproj.GenerateResource.cache
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Tracke Statics Program.csproj.CoreCompileInputs.cache
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Tracke_Statics_Program.CashControl.resources
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Tracke_Statics_Program.AddProducts.resources
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\bin\Debug\Expense Tracker.exe.config
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\bin\Debug\Expense Tracker.exe.manifest
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\bin\Debug\Expense Tracker.application
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\bin\Debug\Expense Tracker.exe
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\bin\Debug\Expense Tracker.pdb
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Expense Tracker.TrustInfo.xml
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Expense Tracker.exe.manifest
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Expense Tracker.application
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Expense Tracker.exe
+D:\Project c#\Tracke Statics Program\Tracke Statics Program\obj\Debug\Expense Tracker.pdb
